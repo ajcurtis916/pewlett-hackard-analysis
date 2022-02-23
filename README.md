@@ -20,6 +20,7 @@ Mentorship Program eligibility was defined by Pewlett Hackard as
 
 Highlights from our analysis:
 
+- 
 - 72,458 individuals will potentially retire in the next few years.
   - Majority of the potential retirees hold titles as "Senior Engineer" (25,916) and "Senior Staff" (24,926).
   - This is followed by "Engineer" (9,285), "Staff" (7,636), "Technique Leader" (3,603) and "Assistant Engineer" (1,090).
@@ -32,12 +33,12 @@ Highlights from our analysis:
   - No Managers were found eligible.
 </br>
 
-Titles to Fill     |  Scores by Size    |    Scores by School Type 
+Titles to Fill     |   Current Employees by Title   |   Retirees by Department 
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xnum_retiring_titles.png" width="215" />|<img src="https://github.com/ajcurtis916/school_district_analysis/blob/main/resources/zscores_by_size.png" width="400"/>|<img src="https://github.com/ajcurtis916/school_district_analysis/blob/main/resources/zscores_by_type.png" width="400"/>
+<img src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xnum_retiring_titles.png" width="250"/>|<img src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xcurrent_titles.png" width="300"/>|<img src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xretirees_by_department.png" width="300"/>
 </br>
-
-  
+<img align="center" src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xno_managers_mentorship_eligibility.png" width="600"/>
+</br>
   
 
 ## Resources
