@@ -8,13 +8,33 @@
 </br>
 
 ## Results
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-<img align="left" src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xnum_retiring_titles.png" width="150"/>
-- 72,458 individuals are set to rettire in the near future as part of a "Silver Tsunami" as Pewlett Hackard.
-- Majority of the potential retirees currently hold titles as "Senior Engineer" (25,916) and "Senior Staff" (24,926).
+We were tasked with retrieving the number of potential retirees, the 
+
+as part of a "Silver Tsunami" as Pewlett Hackard.
+
+During our preliminary analysis we created a table to break down the number of potential retirees by department
+
+Mentorship Program eligibility was defined by Pewlett Hackard as 
+
+
+- 72,458 individuals will potentially retire in the next few years.
+- Majority of the potential retirees hold titles as "Senior Engineer" (25,916) and "Senior Staff" (24,926).
  - This is followed by "Engineer" (9,285), "Staff" (7,636), "Technique Leader" (3,603) and "Assistant Engineer" (1,090).
  - There are only two (2) "Manager" titles that may need to be filled.
-  - Based on
+- Only 36,619 potential retirees were returned during a preliminary analysis of retirees by department.
+  - Development Department returned the most potential retirees (9,281).
+  - 8,174 from the Production Department. 
+  - 5,860 from the Sales Department.
+  - 2,597 from the Customer Service Department.
+  - 2,413 from the Research Department.
+  - 2,234 from the Quality Management Department.
+  - 2,199 from the Marketing Departmemnt.
+  - 1,953 from the Human Resources Department.
+  - 1,908 from the Finance Department.
+- 
+  
+ 
+ <img align="left" src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xnum_retiring_titles.png" width="150"/>
 
 ## Resources
 **Data Sources**
