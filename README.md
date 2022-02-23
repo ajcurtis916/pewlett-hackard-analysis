@@ -10,15 +10,16 @@
 ## Results
 We were tasked with retrieving the number of potential retirees, the 
 
-as part of a "Silver Tsunami" as Pewlett Hackard.
+as part of a "Silver Tsunami" at Pewlett Hackard.
 
 During our preliminary analysis we created a table to break down the number of potential retirees by department
 
 Mentorship Program eligibility was defined by Pewlett Hackard as 
 
+Highlights from our analysis:
 
 - 72,458 individuals will potentially retire in the next few years.
-- Majority of the potential retirees hold titles as "Senior Engineer" (25,916) and "Senior Staff" (24,926).
+ - Majority of the potential retirees hold titles as "Senior Engineer" (25,916) and "Senior Staff" (24,926).
  - This is followed by "Engineer" (9,285), "Staff" (7,636), "Technique Leader" (3,603) and "Assistant Engineer" (1,090).
  - There are only two (2) "Manager" titles that may need to be filled.
 - Only 36,619 potential retirees were returned during a preliminary analysis of retirees by department.
@@ -31,7 +32,8 @@ Mentorship Program eligibility was defined by Pewlett Hackard as
   - 2,199 from the Marketing Departmemnt.
   - 1,953 from the Human Resources Department.
   - 1,908 from the Finance Department.
-- 
+- 1,549 employees were found eligible for the Mentorship Program.
+  - No Managers were found eligible.
   
  
  <img align="left" src="https://github.com/ajcurtis916/pewlett-hackard-analysis/blob/main/data/xnum_retiring_titles.png" width="150"/>
